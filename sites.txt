@@ -1,0 +1,5 @@
+https://random-status-code.herokuapp.com/
+https://www.google.com/
+https://www.google.com/404
+https://alura.com.br
+https://caelum.com.br
